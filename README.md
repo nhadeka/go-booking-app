@@ -1,1 +1,1 @@
-Booking App with Go
+Booking Cli App with Go
